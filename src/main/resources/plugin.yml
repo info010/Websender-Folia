@@ -1,7 +1,10 @@
 name: WebSender
 main: org.info_0.websenderfolia.bukkit.BukkitMain
 version: 3.1
-author: yyunusyigit
+authors:
+  - yyunusyigit
+  - info_0
+  - mrsugar08
 folia-supported: true
 commands:
   websender:
